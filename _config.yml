@@ -17,7 +17,7 @@ title: Semantifying the UK Hansard Corpus
 #email: your-email@example.com
 description: "" #>- # this means to ignore newlines until "baseurl:"
 #  This is the online appendix for the paper "Political Text Scaling Meets Computational Semantics".
-#baseurl: /semantic-scaling 
+#baseurl: /semantifying-hansard 
 url: "" # https://irehbein.github.io # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
